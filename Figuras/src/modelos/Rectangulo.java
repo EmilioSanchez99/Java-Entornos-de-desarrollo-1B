@@ -6,7 +6,7 @@ import java.util.*;
 /**
  *  	clase rectangulo
  */
-public class Rectangulo {
+public class Rectangulo extends Figura {
 
    
    
