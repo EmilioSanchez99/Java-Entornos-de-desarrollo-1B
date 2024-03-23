@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * clase circulo
  */
-public class Circulo {
+public class Circulo extends Figura {
 
 	/**
 	 * 
