@@ -72,18 +72,18 @@ public class Rectangulo {
     /**
      * @return		calcular el area 
      */
-    public double obtenerArea(Rectangulo r) {
+    public double obtenerArea() {
         double area=0;
-        area=r.base*r.altura;
+        area=base*altura;
         return area;
     }
 
     /**
      * @return 		calcular el perimetro
      */
-    public double obtenerPerimetro(Rectangulo r) {
+    public double obtenerPerimetro() {
         double perimetro;
-        perimetro=(2*r.base)+(2*r.altura);
+        perimetro=(2*base)+(2*altura);
         return perimetro;
     }
 

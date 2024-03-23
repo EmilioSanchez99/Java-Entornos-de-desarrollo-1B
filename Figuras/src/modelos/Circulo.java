@@ -45,18 +45,18 @@ public class Circulo {
 	/**
 	 * @return devuelve el perimetro
 	 */
-	public double obtenerPerimetro(Circulo c) {
+	public double obtenerPerimetro() {
 		double perimetro;
-		perimetro = (2 * (Math.PI)) * c.radio;
+		perimetro = (2 * (Math.PI)) * radio;
 		return perimetro;
 	}
 
 	/**
 	 * @return 	devuelve el area
 	 */
-	public double obtenerArea(Circulo c) {
+	public double obtenerArea() {
 		double area;
-		area = Math.PI * (Math.pow(c.radio, 2));
+		area = Math.PI * (Math.pow(radio, 2));
 
 		return area;
 	}
