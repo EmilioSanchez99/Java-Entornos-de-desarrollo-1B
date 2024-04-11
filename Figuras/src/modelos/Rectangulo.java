@@ -19,7 +19,9 @@ public class Rectangulo extends Figura {
      * 
      */
     public  Rectangulo() {
-        // TODO implement here
+        
+    	base=1;
+    	altura=1;
     }
 
     /**
