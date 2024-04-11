@@ -24,7 +24,7 @@ public class main {
 		System.out.println("Perimetro: "+c2.obtenerPerimetro());
 		
 		
-
+		
 		
 	}
 

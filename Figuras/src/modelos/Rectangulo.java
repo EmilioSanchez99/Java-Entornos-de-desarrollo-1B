@@ -70,7 +70,7 @@ public class Rectangulo extends Figura {
     }
 
     /**
-     * @return		calcular el area 
+     * @return		@see modelos.Figura#obtenerArea()
      */
     public double obtenerArea() {
         double area=0;
@@ -79,7 +79,7 @@ public class Rectangulo extends Figura {
     }
 
     /**
-     * @return 		calcular el perimetro
+     * @return 		@see modelos.Figura#obtenerPerimetro()
      */
     public double obtenerPerimetro() {
         double perimetro;
