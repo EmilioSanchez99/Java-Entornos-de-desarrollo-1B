@@ -2,6 +2,7 @@ package app;
 
 import modelos.Rectangulo;
 import modelos.Circulo;
+import modelos.Circulo;
 public class main {
 
 	public static void main(String[] args) {
